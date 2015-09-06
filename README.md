@@ -20,7 +20,7 @@ use Joomla\Github\Github;
 $github = new Github;
 ```
 
-This creates a basic Github object that can be used to access publicly available resources on [github.com]
+This creates a Basic Github object that can be used to access publicly available resources on [github.com]
 (https://github.com).
 
 Sometimes it is necessary to specify additional options. This can be done by injecting in a Registry object with your
